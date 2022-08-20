@@ -34,7 +34,9 @@
 
 ## Connect with me 👇
 
-<a href="https://twitter.com/dun_yan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="div_dunyanong" height="30" width="40" /></a>
+<a href="https://twitter.com/dun_yan_">
+<img src="https://img.shields.io/twitter/follow/dun_yan_?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/>
+</a>
 
 <br/>
 
