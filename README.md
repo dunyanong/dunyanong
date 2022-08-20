@@ -25,24 +25,47 @@
 <img align="left" alt="Boostrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/> 
 <br/>
 
-## ⚡ Tools:
+## 🔥 Tools:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <br/>
 
-## Connect with me 👇
+## 👇 Connect with me
 
-<a href="https://twitter.com/dun_yan_">
-<img src="https://img.shields.io/twitter/follow/dun_yan_?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/>
+<a href="https://twitter.com/dun_yan_" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%ff5851db.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" t=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/dun-yan-ong-b26aa5244/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" t=linkedin style="margin-bottom: 5px; />
+</a>
+
+
+<a href="https://dunyan.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=portfolio&logoColor=white" t=portfolio style="margin-bottom: 5px;" />
 </a>
 
 <br/>
 
-## My Github Stats 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dunyanong&theme=dark&background=000000)](https://git.io/streak-stats)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunyanong&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+<a href="https://github.com/dunyanong/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dunyanong&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+ 
+<a href="https://github.com/dunyanong">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunyanong&theme=blueberry" width="380"/>
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+    <a href="https://github.com/dunyanong"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunyanong&theme=tokyonight&hide_border=true"  width="520" alt="dunyanong"/></a>
+<a href="https://github.com/dunyanong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunyanong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="dunyanong"/></a>
+</p>
 
