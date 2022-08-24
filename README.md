@@ -43,7 +43,7 @@
 </a>
 
 
-<a href="https://dunyan.vercel.app" target="_blank">
+<a href="https://dunyan.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/portfolio-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=portfolio&logoColor=white" t=portfolio style="margin-bottom: 5px;" />
 </a>
 
