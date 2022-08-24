@@ -40,15 +40,16 @@
 ## 👇 Connect with me
 
 <a href="https://twitter.com/dun_yan_" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%ff5851db.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/twitter-%ff5851db.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/dun-yan-ong-b26aa5244/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; />
+  <img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; />
 </a>
 
 <a href="dunyan.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="margin-bottom: 5px;"
+/>
 </a>
                                                                                                                                               
 <br/>                                                                                                                                          
