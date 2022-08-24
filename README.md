@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I love to workout (eventhough I am not fit) and to play soccer
 - 👯 Let's connect!
 
+<br/>
 
 ## ⚡ Languages and Frameworks:
 
@@ -23,6 +24,8 @@
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Boostrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/> 
+
+<br/>
 <br/>
 
 ## 🔥 Tools:
@@ -30,27 +33,28 @@
 <img align="left" alt="Firebase" width="26px" src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+
 <br/>
+<br/>                           
 
 ## 👇 Connect with me
 
 <a href="https://twitter.com/dun_yan_" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%ff5851db.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" t=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%ff5851db.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/dun-yan-ong-b26aa5244/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" t=linkedin style="margin-bottom: 5px; />
+<img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; />
 </a>
-
 
 <a href="dunyan.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=portfolio&logoColor=white" t=portfolio style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="margin-bottom: 5px;"/>
 </a>
-
+                                                                                                                                              
+<br/>                                                                                                                                          
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
 
 <p align="center">
 <a href="https://github.com/dunyanong/">
