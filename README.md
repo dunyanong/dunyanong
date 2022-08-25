@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; />
 </a>
 
-<a href="dunyan.vercel.app" target="_blank">
+<a href="https://dunyan.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="margin-bottom: 5px;"
 />
 </a>
