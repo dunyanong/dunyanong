@@ -8,8 +8,8 @@
 
 - 💯 In high school
 - 🇲🇾 From malaysia
-- 🔭 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3, learn to drive, start my investing journey
+- 🔭 I’m currently learning back-end development
+- 🥅 Familiar with front-end technologies
 - ⚡ Fun fact: I love to workout (eventhough I am not fit) and to play soccer
 - 👯 Let's connect!
 
