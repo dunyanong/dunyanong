@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## 👋  I'm a nerd who is learning about full stack development 
+## 👋  I'm a nerd who is into full stack development 
 
 - 💯 In high school
 - 🇲🇾 From malaysia
-- 🔭 I’m currently learning back-end development
+- 🔭 I’m currently MongoDB
 - 🥅 Familiar with front-end technologies
 - ⚡ Fun fact: I love to workout (eventhough I am not fit) and to play soccer
 - 👯 Let's connect!
