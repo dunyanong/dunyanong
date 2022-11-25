@@ -8,7 +8,7 @@
 
 - 💯 In high school
 - 🇲🇾 From malaysia
-- 🔭 I’m currently MongoDB
+- 🔭 I’m currently learning MongoDB
 - 🥅 Familiar with front-end technologies
 - ⚡ Fun fact: I love to workout (eventhough I am not fit) and to play soccer
 - 👯 Let's connect!
