@@ -6,9 +6,9 @@
 
 ## 👋  I'm a nerd who is into full stack development 
 
-- 💯 In high school
+- 💯 Apparently schoolless
 - 🇲🇾 From malaysia
-- 🔭 I’m currently learning MongoDB
+- 🔭 Trying to master backend tech
 - 🥅 Familiar with front-end technologies
 - ⚡ Fun fact: I love to workout (eventhough I am not fit) and to play soccer
 - 👯 Let's connect!
@@ -24,4 +24,3 @@
     <a href="https://github.com/dunyanong"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunyanong&theme=tokyonight&hide_border=true"  width="520" alt="dunyanong"/></a>
 <a href="https://github.com/dunyanong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunyanong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="dunyanong"/></a>
 </p>
-
