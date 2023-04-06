@@ -16,7 +16,7 @@ My name is Dun Yan, and I'm a self-taught full-stack developer based in Malaysia
     </a>
     <a href="https://github.com/dunyanong">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunyanong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="270" alt="dunyanong"/>
-    </a>  
+    </a>
 </div>
 
 #### Let's Connect!
