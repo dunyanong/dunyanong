@@ -4,7 +4,7 @@ My name is Dun Yan, and I'm a self-taught full-stack developer based in Malaysia
 
 #### Technical Skills
 
-- 💻 Front-end: HTML, CSS, JavaScript, React, Typescript, Flutter, Tailwind, Bootstrap
+- 💻 Front-end: HTML, CSS, JavaScript, React, Typescript, Flutter (Dart), Tailwind, Bootstrap
 - 🖥️ Back-end: Node.js, Express.js, MongoDB, Firebase, Prisma, mySQL
 - 🛠️ Other: Git, SQL, Python
 
