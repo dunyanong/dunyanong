@@ -10,14 +10,8 @@ My name is Dun Yan, and I'm a self-taught full-stack developer based in Malaysia
 
 #### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<div align="center" style="display: flex; gap: 20px;"> 
-    <a align="center" href="https://github.com/dunyanong">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunyanong&theme=blueberry" width="380"/>
-    </a>
-    <a href="https://github.com/dunyanong">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunyanong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="270" alt="dunyanong"/>
-    </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dun Yan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dunyanong&show_icons=true&count_private=true" height="192px"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunyanong&langs_count=10&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="192px"/>
 
 #### Let's Connect!
 
